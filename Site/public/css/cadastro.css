@@ -43,7 +43,7 @@
   font-size: 1rem;
   transition: border-color 0.3s cubic-bezier(0.25, 0.01, 0.25, 1) 0s,
     color 0.3s cubic-bezier(0.25, 0.01, 0.25, 1) 0s,
-    background 0.2s cubic-bezier(0.25, 0.01, 0.25, 1) 0s;
+  backgr 0.2s cubic-bezier(0.25, 0.01, 0.25, 1) 0s;
   margin-bottom: 10%;
 }
 
